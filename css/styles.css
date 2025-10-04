@@ -94,6 +94,7 @@ font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
+text-transform: capitalize;
 color: #2e2f42;
 }
 .team-name {
@@ -125,11 +126,14 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #434455;
 }
+.team-list {
+background: #fff}
 .portfolio-card-title {
 font-weight: 700;
 font-size: 36px;
-line-height: 1.11111;
+line-height: 1.11;
 letter-spacing: 0.02em;
+text-transform: capitalize;
 text-align: center;
 color: #2e2f42;
 }
