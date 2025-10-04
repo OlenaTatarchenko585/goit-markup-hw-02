@@ -66,6 +66,7 @@ background-color: #4d5ae5;
 background: #404bbf;
 }
 
+
 .feature { 
 width: 264px;
 height: 104px;
@@ -84,8 +85,10 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
-
-.chapter-title {
+.team-section {
+background: #f4f4fd
+}
+.team-card-title {
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
@@ -108,7 +111,7 @@ height="260"
 }
 
 .team-title {
-font-weight: 500;
+font-weight:  500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
