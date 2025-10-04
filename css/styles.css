@@ -1,0 +1,169 @@
+
+body { 
+    font-family: "Roboto", sans-serif;
+color: #434455;
+background-color:#fff; 
+}
+ul, ol { list-style-type: none; 
+}
+a { text-decoration: none;}
+.logo {
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;}
+.header-logo .logo-part {
+color: #2e2f42;}
+.footer-logo .logo-part {
+color: #f4f4fd; }
+.nav-link { 
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.address { font-style: normal;
+}
+.address-link {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.address-link:hover,
+.address-link:focus,
+.nav-link:hover, 
+.nav-link:focus  {
+color: #404bbf; 
+}
+.hero-title {
+background: #2e2f42;
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+ }
+.button {
+
+
+text-align: center;
+color: #fff;
+border-radius: 4px;
+padding: 16px 32px;
+width: 169px;
+height: 56px;
+cursor: pointer;
+background-color: #4d5ae5;
+}
+.button:hover,
+.button:focus {
+background: #404bbf;
+}
+
+.feature { 
+width: 264px;
+height: 104px;
+
+}
+.feature-list {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.feature-text {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.team-section {
+background: #f4f4fd
+
+}
+
+.chapter-title {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+.team-name {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+
+.team-foto {
+width="264"
+height="260"
+}
+
+.team-title {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+.team-job {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;
+}
+
+.portfolio-section {
+
+}
+.portfolio-card {
+width: 360px;
+height: 420px;
+background: #fff;
+}
+.portfolio-title {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.portfolio-foto {
+width: 360px;
+height: 300px;
+}
+.portfolio-product {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455
+}
+
+
+
+
+
+.page-footer {
+background: #2e2f42;
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
+
+}
