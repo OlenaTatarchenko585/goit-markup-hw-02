@@ -86,7 +86,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .team-section {
-background: #f4f4fd
+background: #f4f4fd;
 }
 .team-card-title {
 font-weight: 700;
@@ -104,6 +104,7 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+background: #fff;
 }
 
 .team-foto {
@@ -118,6 +119,7 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+
 }
 .team-job {
 font-size: 16px;
@@ -127,7 +129,9 @@ text-align: center;
 color: #434455;
 }
 .team-list {
-background: #fff}
+
+}
+
 .portfolio-card-title {
 font-weight: 700;
 font-size: 36px;
