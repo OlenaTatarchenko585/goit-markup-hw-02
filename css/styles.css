@@ -40,8 +40,10 @@ color: #434455;
 .nav-link:focus  {
 color: #404bbf; 
 }
+.hero {
+background: #2e2f42
+}
 .hero-title {
-background: #2e2f42;
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
@@ -50,15 +52,12 @@ text-align: center;
 color: #fff;
  }
 .button {
-
-
-text-align: center;
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
 color: #fff;
-border-radius: 4px;
-padding: 16px 32px;
-width: 169px;
-height: 56px;
-cursor: pointer;
 background-color: #4d5ae5;
 }
 .button:hover,
